@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "random": "cpp",
+    "limits": "cpp",
+    "cmath": "cpp",
+    "cstdint": "cpp",
+    "numbers": "cpp",
+    "iostream": "cpp",
+    "array": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "span": "cpp"
+  }
+}
